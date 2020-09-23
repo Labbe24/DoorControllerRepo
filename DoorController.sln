@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorController", "DoorController\DoorController.csproj", "{FF0B290B-0001-41A1-94D2-785B447778A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorController.Unit.Tests", "DoorController.Unit.Tests\DoorController.Unit.Tests.csproj", "{ED54FDB9-526A-4B94-A474-CEA560760E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FF0B290B-0001-41A1-94D2-785B447778A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF0B290B-0001-41A1-94D2-785B447778A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF0B290B-0001-41A1-94D2-785B447778A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED54FDB9-526A-4B94-A474-CEA560760E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED54FDB9-526A-4B94-A474-CEA560760E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED54FDB9-526A-4B94-A474-CEA560760E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED54FDB9-526A-4B94-A474-CEA560760E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
