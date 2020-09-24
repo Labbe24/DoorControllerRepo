@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DoorController
 {
-    class DoorControl
+    public class DoorControl
     {
         public IAlarm Alarm
         {
